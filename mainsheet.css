@@ -1,0 +1,43 @@
+body
+{
+	background-color: #000000;
+}
+
+h1
+{
+	font-family: garamond, times;
+	font-size: 50px;
+	color: white;
+	text-align: left;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+p
+{
+	font-family: garamond, times;
+	text-align: left;
+	margin-left: 30px;
+	margin-right: 700px;
+	margin-top: 30px;
+	color: white;
+}
+
+a:link
+{
+	color: red;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: red;
+	text-decoration: bold;
+}
+
+aside
+{
+	margin-top: 30px;
+	margin-left: 600px;
+	margin-bottom: 0px;
+}
